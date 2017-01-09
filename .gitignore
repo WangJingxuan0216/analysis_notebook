@@ -1,8 +1,11 @@
 ## data I am working on
 data/*
 
-##
+##Mac file
 *.DS_Store
+
+## virtual envor
+venv/*
 
 # Jupyter Notebook
 .ipynb_checkpoints
