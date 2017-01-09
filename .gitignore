@@ -1,0 +1,8 @@
+## data I am working on
+data/*
+
+##
+*.DS_Store
+
+# Jupyter Notebook
+.ipynb_checkpoints
