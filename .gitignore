@@ -86,8 +86,11 @@ dotenv
 venv/
 ENV/
 
-# # Spyder project settings
+## Spyder project settings
 .spyderproject
 
-# # Rope project settings
+## Rope project settings
 .ropeproject
+
+##plotly output
+*.html 
