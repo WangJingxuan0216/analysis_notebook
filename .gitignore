@@ -92,3 +92,6 @@ ENV/
 
 ##plotly output
 *.html 
+
+## world geojson file
+data/world.geo.json/*
